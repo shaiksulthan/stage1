@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Control Demo</title>
+    <meta charset="utf-8" />
+    <style>
+        th{
+            background-color:cadetblue;
+        }
+        td{
+            background-color:antiquewhite;
+        }
+    </style>
+    <script type="text/javascript">
+        function showDetails()
+        {
+            var str = " ";
+            var nm = document.getElementById("txtFName").value;
+            str = str + "First Name : " + nm + "\n";
+            nm = document.getElementById("txtLName").value;
+            str = str + "Last Name : " + nm + "\n";
+            nm = document.getElementById("txtEmail").value;
+            str = str + "Email : " + nm + "\n";
+            if (document.getElementById("rdMale").checked == true) {
+                str = str + "Gender : Male \n";
+            }
+            else {
+                str = str + "Gender : Female \n";
+            }
+            nm = document.getElementById("txtDOB").value;
+            str = str + "DOB      : " + nm + "\n";
+            nm = document.getElementById("txtAddress1").value;
+            str = str + "Address  : " + nm + "\n";
+            nm = document.getElementById("txtAddress2").value;
+            str = str + "          " + nm + "\n";
+            nm = document.getElementById("states").value;
+            str = str + "States   : " + nm + "\n";
+            str = str + "Hobbies  : \n";
+            var hobby = document.getElementsByName("Hobbies");
+            for (var i = 0; i < hobby.length; i++) {
+                if(hobby[i].checked)
+                {
+                    str = str + hobby[i].value + " ";
+                }
+            }
+            //document.RegistrationForm.TagName.value
+            var wordcount = document.RegistrationForm.Feedback.value;
+            Noofwords = wordcount.split(" ");
+            str = str + "\n Feedback : " + wordcount + "\n" + "No. of words :" + Noofwords.length;
+            alert(str);
+            
+        }
+    </script>
+    <noscript>
+        your browser doesn't support javascript
+    </noscript>
+</head>
+<body>
+    <form name="RegistrationForm">
+        <table border="0">
+            <tr><th>First Name</th><td><input type="text" id="txtFName" /></td></tr>
+            <tr><th>Last Name</th><td><input type="text" id="txtLName" /></td></tr>
+            <tr><th>Email ID :</th><td><input type="text" id="txtEmail" /></td></tr>
+            <tr><th>Gender ?</th><td>Male : <input type="radio" id="rdMale" name="gender" />Female : <input type="radio" id="rdFemale" name="gender" /></td></tr>
+            <tr><th>DOB :</th><td><input type="text" id="txtDOB" placeholder="dd/mm/yyyy" /></td></tr>
+            <tr><th>Address :</th><td><input type="text" id="txtAddress1" /></td></tr>
+            <tr><th></th><td><input type="text" id="txtAddress2" /></td></tr>
+            <tr>
+                <th>State</th>
+                <td>
+                    <select id="states">
+                        <option>Delhi</option>
+                        <option>TamilNadu</option>
+                        <option>Karnataka</option>
+                        <option>Andhra Pradesh</option>
+                        <option>Telangana</option>
+                        <option>Odisha</option>
+                        <option>Kerala</option>
+                        <option>Uttar Pradhes</option>
+                        <option>J&K</option>
+                        <option>Rajasthan</option>
+                        <option>Bihar</option>
+                    </select>
+                </td>
+            </tr>
+            <tr><th>Hobbies</th><td><b>Painting </b><input type="checkbox" id="chk1" value="Painting" name="Hobbies" /></td></tr>
+            <tr><th>       </th><td><b>Reading  </b><input type="checkbox" id="chk2" value="Reading" name="Hobbies" /></td></tr>
+            <tr><th>       </th><td><b>Writing  </b><input type="checkbox" id="chk3" value="Writing" name="Hobbies" /></td></tr>
+            <tr><th>       </th><td><b>Listening</b><input type="checkbox" id="chk4" value="Listening" name="Hobbies" /></td></tr>
+            <tr>
+                <th>Feedback</th>
+                <td><textarea rows="12" name="Feedback" cols="20" wrap="soft" style="color:black;background-color:bisque;font-size:20px"></textarea></td>
+            </tr>
+        </table>
+        <input type="button" id="btnshowdetails" value="Show Details" onclick="showDetails()" />
+
+    </form>
+</body>
+</html>

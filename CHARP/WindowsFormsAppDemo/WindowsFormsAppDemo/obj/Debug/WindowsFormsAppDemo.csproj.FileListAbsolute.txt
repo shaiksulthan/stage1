@@ -1,0 +1,10 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb

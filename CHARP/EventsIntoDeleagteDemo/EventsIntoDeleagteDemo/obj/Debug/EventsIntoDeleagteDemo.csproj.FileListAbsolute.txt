@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\bin\Debug\EventsIntoDeleagteDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\bin\Debug\EventsIntoDeleagteDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\bin\Debug\EventsIntoDeleagteDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\obj\Debug\EventsIntoDeleagteDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\obj\Debug\EventsIntoDeleagteDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\obj\Debug\EventsIntoDeleagteDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EventsIntoDeleagteDemo\EventsIntoDeleagteDemo\obj\Debug\EventsIntoDeleagteDemo.pdb

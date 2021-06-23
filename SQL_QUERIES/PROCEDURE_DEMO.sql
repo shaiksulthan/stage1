@@ -1,0 +1,32 @@
+
+--NON PARAMETERIZED STORE PROCEDURE
+create procedure spshowemployeedetails
+AS
+BEGIN
+SELECT        EMPLOYEE.EMPID, EMPLOYEE.EMPNAME, EMPLOYEE.EMPDESG, EMPLOYEE.DEPTID, DEPARTMENT.DEPTNAME, DEPARTMENT.DEPTLOC
+FROM            DEPARTMENT INNER JOIN
+                         EMPLOYEE ON DEPARTMENT.DEPTID = EMPLOYEE.DEPTID
+END
+
+
+exec spshowemployeedetails
+
+
+--PARAMETERIZED STORE PROCEDURE
+create procedure spAddEmployee
+@EMPNAME varchar(30),--IN PARAMTER
+@EMPDESG varchar(20),--IN PARAMETER
+@DEPTID  int-- IN PARAMETER
+AS
+BEGIN
+insert into EMPLOYEE values (@EMPNAME,@EMPDESG,@DEPTID)
+END
+
+
+EXEC spAddEmployee 'SUSHIL','HR',102
+
+sp_help Employee
+
+select * from EMPLOYEE
+
+

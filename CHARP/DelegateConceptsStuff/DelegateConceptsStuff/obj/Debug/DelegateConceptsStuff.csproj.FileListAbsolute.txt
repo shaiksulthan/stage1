@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\bin\Debug\DelegateConceptsStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\bin\Debug\DelegateConceptsStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\bin\Debug\DelegateConceptsStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\obj\Debug\DelegateConceptsStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\obj\Debug\DelegateConceptsStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\obj\Debug\DelegateConceptsStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\DelegateConceptsStuff\DelegateConceptsStuff\obj\Debug\DelegateConceptsStuff.pdb

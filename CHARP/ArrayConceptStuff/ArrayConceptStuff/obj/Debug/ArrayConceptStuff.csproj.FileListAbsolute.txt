@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\bin\Debug\ArrayConceptStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\bin\Debug\ArrayConceptStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\bin\Debug\ArrayConceptStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\obj\Debug\ArrayConceptStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\obj\Debug\ArrayConceptStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\obj\Debug\ArrayConceptStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ArrayConceptStuff\ArrayConceptStuff\obj\Debug\ArrayConceptStuff.pdb

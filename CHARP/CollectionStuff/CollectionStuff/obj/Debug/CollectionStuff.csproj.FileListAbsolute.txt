@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\bin\Debug\CollectionStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\bin\Debug\CollectionStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\bin\Debug\CollectionStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\obj\Debug\CollectionStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\obj\Debug\CollectionStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\obj\Debug\CollectionStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CollectionStuff\CollectionStuff\obj\Debug\CollectionStuff.pdb

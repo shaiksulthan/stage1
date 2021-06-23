@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\bin\Debug\CSharpConceptsDay2.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\bin\Debug\CSharpConceptsDay2.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\bin\Debug\CSharpConceptsDay2.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\obj\Debug\CSharpConceptsDay2.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\obj\Debug\CSharpConceptsDay2.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\obj\Debug\CSharpConceptsDay2.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay2\CSharpConceptsDay2\obj\Debug\CSharpConceptsDay2.pdb

@@ -1,0 +1,26 @@
+ Volume in drive C is System
+ Volume Serial Number is 5267-0303
+
+ Directory of C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay4\CSharpConceptsDay4
+
+21-01-2021  20:40    <DIR>          .
+21-01-2021  20:40    <DIR>          ..
+19-01-2021  15:12             1,995 abstractclassdemo.cs
+19-01-2021  10:21             1,112 accessmodifiersdemo.cs
+18-01-2021  17:42               189 app.config
+18-01-2021  18:03    <DIR>          bin
+19-01-2021  12:02             2,663 constructorchaningdemo.cs
+19-01-2021  20:39             2,997 csharpconceptsday4.csproj
+19-01-2021  20:39             2,171 datetimeformatincsharpsample.cs
+19-01-2021  10:57               881 inheritancedemo.cs
+19-01-2021  17:14             1,748 interfacedemo.cs
+19-01-2021  15:03             1,758 methodoverridingdemo.cs
+19-01-2021  10:21             1,320 namespacedemo.cs
+18-01-2021  17:42    <DIR>          obj
+18-01-2021  17:42    <DIR>          properties
+19-01-2021  19:02               528 revisionofdatetime.cs
+19-01-2021  17:48             1,341 sealeddemo.cs
+19-01-2021  10:57             2,105 staticdemo.cs
+21-01-2021  20:40                 0 topics.doc
+              14 File(s)         20,808 bytes
+               5 Dir(s)  125,813,780,480 bytes free

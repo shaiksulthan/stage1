@@ -1,0 +1,18 @@
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Debug\Dao.exe
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Debug\Dao.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Debug\Model.dll
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Debug\Model.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Debug\Dao.csprojAssemblyReference.cache
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Debug\Dao.csproj.CopyComplete
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Debug\Dao.exe
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Debug\Dao.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Debug\Dao.exe.config
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\bin\Debug\Dao.exe.config
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\bin\Debug\Dao.exe
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\bin\Debug\Dao.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\bin\Debug\Model.dll
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\bin\Debug\Model.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\obj\Debug\Dao.exe
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Dao\obj\Debug\Dao.pdb

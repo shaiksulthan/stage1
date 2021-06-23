@@ -1,0 +1,195 @@
+CREATE PROCEDURE USP_EMP_SELECT
+AS
+BEGIN
+
+SELECT * FROM NEW_EMP
+
+END
+
+EXECUTE USP_EMP_SELECT
+EXEC USP_EMP_SELECT
+
+ALTER PROCEDURE USP_EMP_SELECT
+AS
+BEGIN
+SELECT * FROM NEW_EMP ORDER BY ECODE DESC
+END
+
+
+DROP PROCEDURE USP_EMP_SELECT
+
+CREATE PROCEDURE USP_Get_DeptWiseEmployees
+AS
+BEGIN
+SELECT * FROM NEW_EMP WHERE DEPTID BETWEEN 1 AND 2
+END
+
+--brackets are optional - Ob1
+ALTER PROCEDURE USP_Get_DeptWiseEmployees
+(
+@StartID integer,
+@EndID integer
+)
+AS
+BEGIN
+SELECT * FROM NEW_EMP WHERE DEPTID BETWEEN @StartID AND @EndID
+END
+
+
+execute USP_Get_DeptWiseEmployees 3,4
+
+
+sp_helptext USP_Get_DeptWiseEmployees
+sp_help 'NEW_EMP'
+sp_helpdb 'UHG'
+sp_renamedb 'CMS','CMS2'
+sp_rename 'Employees','OldEmployees'
+sp_columns 'NEW_EMP'
+sp_databases
+sp_tables
+
+CREATE TABLE PRODUCT
+(
+PCODE INT IDENTITY(1,1),
+PNAME VARCHAR(50),
+COST INT
+)
+
+CREATE PROCEDURE  PR_Product_Insert
+(
+@PCode int OUTPUT,
+@Pname varchar(50),
+@Cost int
+)
+AS
+BEGIN
+
+INSERT INTO Product values(@Pname,@Cost)
+
+--SET @PCode=10
+
+SELECT @PCode=@@IDENTITY from Product
+
+PRINT 'New Product ID is :  ' + Convert(varchar(50),@PCode)
+
+END  
+
+
+----------------
+DECLARE @Pcode as int
+execute PR_Product_Insert @Pcode output,'Notebook',1000
+---------------------------------------------------------------
+
+
+CREATE PROCEDURE AddNumbers
+(
+--receiving parameters
+	@a int,
+	@b int=10,
+	@c int=0
+)
+AS
+BEGIN
+DECLARE @Sum as int
+SET @Sum= @a + @b + @c
+return(@Sum)
+END
+-----------------------
+
+create procedure testAddNumbers
+as
+begin
+
+DECLARE @Result as int
+EXEC @Result = AddNumbers 10,default,20
+print 'Sum is :' + cast(@Result as varchar(50))
+
+end
+
+
+select * from new_emp
+
+select @@rowcount
+-------------------------------------------
+CREATE PROCEDURE UpdateEmployees
+as
+
+begin
+update NEW_EMP set SALARY=SALARY + 1000 
+return @@RowCount
+end
+-----
+DECLARE @x int
+execute @x = UpdateEmployees
+Print 'Total records updated ..:' + cast(@x as varchar(10))
+
+--------------------------------
+
+CREATE PROCEDURE usp_CopyTable
+AS
+BEGIN
+
+IF OBJECT_ID('newemployees') IS NOT NULL
+BEGIN
+     drop table newemployees
+     print 'newemployees has been dropped..'
+END
+
+
+SELECT * INTO NEWEMPLOYEES FROM new_emp
+PRINT 'TABLE GOT CREATED..'
+
+END
+------------------------------
+/*
+DECLARE
+SET
+IF ELSE 
+WHILE
+BEGIN
+END
+CONTINUE
+BREAK
+GOTO
+PRINT
+TRY
+CATCH
+*/
+
+--using Local variables
+
+DECLARE @a as int,@b as int,@c as int
+SET @A=10
+SET @b=20
+SET @c=@a + @b
+PRINT @C
+PRINT 'Sum of A + B is :' + cast(@c as varchar(10))
+----------------------------
+--Using IF ELSE
+DECLARE @Dept as varchar(10)
+SET @Dept='finance'
+
+IF @Dept = 'Sales'
+BEGIN
+	print 'Saturday is a working day'
+END
+ELSE IF @Dept='Finance'
+BEGIN
+    print 'Sunday is a working day as well..'
+END
+ELSE IF @Dept='HR'
+BEGIN
+    print 'weekends are holidays'
+END
+ELSE
+BEGIN
+   print 'you have to work 7 days..'
+END
+-----------------------
+
+SELECT DEPTNO,DNAME,LOCATION,
+CASE DNAME WHEN 'HR' THEN 'Human Resources'
+           WHEN 'NETWORKING' THEN 'Networking Administration'
+           ELSE dname
+           end
+FROM DEPT

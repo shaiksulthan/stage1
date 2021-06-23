@@ -1,0 +1,75 @@
+<!-- <!DOCTYPE html> -->
+<html>
+
+<head>
+    <title></title>
+    <!-- <meta charset="utf-8" /> -->
+</head>
+
+<body>
+    <form id="frmFirst">
+        <fieldset>
+            <legend>Course Details</legend>
+            <br />Course Release Date : <input type="date" name="cday" />
+            <br />E-mail :<input type="email" name="username" required />
+            <br />Color : <input type="color" name="favcolor" />
+            <br />How many course do you want to order ?:
+            <br /><input type="number" name="quantity" min="1" max="5" />
+            <br />Choose your user name :<br />
+            <input type="text" name="username" maxlength="8" required />
+            <br />Rating of this course :<br />
+            <input type="range" name="points" min="1" max="10" />
+            <br /> Country Code:<br />
+            <input type="text" name="Country_code" pattern="[A-Za-z]{3}" />
+            <br /><input type="text" placeholder="First Name" /><br /> 
+            <input type="text" placeholder="Last Name" /><br />
+            <br />
+            <label for="time-input">Please enter a time</label>
+            <input type="time" id="time-input" />
+            <br /> 
+            <label for="month-input">Please select a month</label>
+            <input type="month" id="month-input" />
+            <br /> 
+            <label for="week-input">Please select a week</label>
+            <input type="week" id="week-input" />
+            <br />
+            <label for="search-data">Search :</label>
+            <input type="search" id="search-data" placeholder="Enter search term" />
+            <br />
+            <label for="tel-data">Telephone : </label>
+            <input type="tel" id="tel-data" required />
+            <br />
+            <label for="list-data">Prefix : </label>
+            <input type="text" list="myDataList" />
+            <datalist id="myDataList">
+                <option label="Mr." value="Mr."></option>
+                <option label="Mrs." value="Mrs."></option>
+                <option label="Ms." value="Ms."></option>
+            </datalist>
+        </fieldset>
+        <br />
+        <label for="progress-data">Progress Bar:</label>
+        <progress id="progress-data" value="5" max="15"></progress>  
+        <br />
+        <label for="meter-data">Meter :</label>    
+        <meter id="meter-data" min="10" max="100" value="80"
+               low="20" high="70" optimum="50"></meter>
+        <br />
+
+        <br />
+        <input type="submit" />
+    </form>
+
+    <label for="outsideText-data">Other text :</label>
+    <input type="text" id="outsideText-data" form="frmFirst" required />
+    <form novalidate>
+        E-mail : <input type="email" name="emailaddress" required />
+        <input type="submit" />
+    </form> 
+    <form>
+        E-mail : <input type="email" name="emailaddress" required />
+        <input type="submit" formnovalidate="formnovalidate"  value="submit" />
+    </form>
+</body>
+
+</html>

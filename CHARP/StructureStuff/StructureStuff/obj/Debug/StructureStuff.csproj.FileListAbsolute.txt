@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\bin\Debug\StructureStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\bin\Debug\StructureStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\bin\Debug\StructureStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\obj\Debug\StructureStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\obj\Debug\StructureStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\obj\Debug\StructureStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\StructureStuff\StructureStuff\obj\Debug\StructureStuff.pdb

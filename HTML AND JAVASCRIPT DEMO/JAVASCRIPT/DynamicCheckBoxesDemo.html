@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>JS SWITCH CASE DEMO</title>
+    <style>
+        tr:nth-child(odd) {
+            background-color: cadetblue;
+        }
+    
+    </style>
+</head>
+
+<body>
+    <input type="checkbox" id="chkbx1" />
+    <table border="1">
+        <tr>
+            <th>SL_NO</th>
+            <th>SELECT</th>
+            <th>MAIL SUBJECT</th>
+        </tr>
+        <script type="text/javascript">
+            for (var i = 1; i <= 50; i++) {
+                document.write("<tr><td>" + i + "</td><td><input type='checkbox' id='chkbx" + i + "'/></td><td>Mail...." + i + "</td></tr>");
+            }
+        </script>
+    </table>
+</body>
+
+</html>

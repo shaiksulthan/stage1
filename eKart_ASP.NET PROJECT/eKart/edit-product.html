@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>eKart</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script type="text/javascript" src="scripts/script.js"></script>
+</head>
+<body>
+    <div class="top-nav">
+        <div class="home">eKart</div>
+        <img src="images/shopping-cart.png">
+        <a href="product-list-admin.html">Products</a>
+    </div>
+    <div class="page-title">Edit Product</div>
+    <div class="body-content-colour">
+        <form action="edit-product-status.html" name="EditProductForm" onsubmit="return validateForm()" method="put">
+            <div>
+                <label for="title">Title</label>
+                <input class="text-box text-box-title" type="text" id="title" name="Title" value="Pringles Potato Chips 110g">
+            </div>
+            <div class="form-field-spacing">
+                <div><label for="price">Price (₹)</label></div>
+                <input class="text-box" type="text" id="Price" name="price" value="97">
+            </div>
+
+            <div class="form-field-spacing">
+                <div><label for="inStock">In Stock</label></div>
+                <input class="radio" type="radio" id="inStock" name="inStock" value="yes"> Yes
+                <input class="radio" type="radio" id="inStock" name="inStock" value="no" checked> No
+            </div>
+
+            <div class="form-field-spacing">
+                <div><label for="dateOfExpiry">Date of Expiry</label></div>
+                <input class="text-box" name="dateOfExpiry" id="dateOfExpiry" value="27/04/2022" />
+            </div>
+
+            <div class="form-field-spacing">
+                <div> <label for="category">Category</label></div>
+                <select id="category" name="category" class="dropdown">
+                    <option>Snack Foods</option>
+                    <option>Electronics</option>
+                    <option>Mobile</option>
+                    <option>Movies & Music</option>
+                    <option>Sports</option>
+                    <option>Books</option>
+                </select>
+            </div>
+            <div class="form-field-spacing">
+               <input type="checkbox" id="freeDelivery" name="freeDelivery"/>
+               <label for="freeDelivery">Free Delivery</label >
+            </div>
+            <div><input type="hidden" id="id" name="id" value=""></div>
+            <div></div>
+            <input type="submit" class="button sucess-button" onclick="location.href = 'edit-product-status.html'" value="Save"/>
+        </form>
+    </div>
+    <div class="footer">Copyright 2019</div>
+</body>
+</html>

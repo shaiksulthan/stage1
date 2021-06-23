@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net452": {
+      "wrappedProject": "../../Dao/Dao.csproj",
+      "bin": {
+        "assembly": "../../Dao/obj/{configuration}/Dao.exe",
+        "pdb": "../../Dao/obj/{configuration}/Dao.pdb"
+      },
+      "dependencies": {
+        "Model": "1.0.0-*"
+      }
+    }
+  }
+}

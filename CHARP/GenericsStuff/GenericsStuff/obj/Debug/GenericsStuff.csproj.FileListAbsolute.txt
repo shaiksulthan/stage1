@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\bin\Debug\GenericsStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\bin\Debug\GenericsStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\bin\Debug\GenericsStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\obj\Debug\GenericsStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\obj\Debug\GenericsStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\obj\Debug\GenericsStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff\obj\Debug\GenericsStuff.pdb

@@ -1,0 +1,36 @@
+<html>
+
+<head>
+    <title>JS SWITCH CASE DEMO</title>
+    <script type="text/javascript">
+        function AddNum() {
+            var num1 = document.getElementById("txtnum1").value;
+            var num2 = document.getElementById("txtnum2").value;
+            var total = parseInt(num1) + parseInt(num2);
+            document.getElementById("bold").innerHTML = total;
+        }
+
+
+    </script>
+
+</head>
+
+<body>
+    <h1>ADDITION OF TWO NUMBER </h1>
+    <table border="1">
+        <tr>
+            <th>ENTER FIRST NUMBER</th>
+            <td><input type="text" id="txtnum1" /></td>
+        </tr>
+        <tr>
+            <th>ENTER SECOND NUMBER</th>
+            <td><input type="text" id="txtnum2" /></td>
+        </tr>
+        <tr>
+            <th>RESULT<input type="button" id="btnAdd" value="AddNum" onclick="AddNum()" /> </th>
+            <td><b id="bold"></b></td>
+        </tr>
+    </table>
+</body>
+
+</html>

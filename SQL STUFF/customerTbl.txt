@@ -1,0 +1,7 @@
+CustomerId Pk int not null
+CustomerName va (30) 
+
+Qty int
+PerProduct money
+Total mony
+

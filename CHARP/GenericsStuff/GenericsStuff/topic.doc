@@ -1,0 +1,22 @@
+ Volume in drive C is System
+ Volume Serial Number is 5267-0303
+
+ Directory of C:\Users\Hewlett Packard\source\repos\ADMCTS\GenericsStuff\GenericsStuff
+
+21-01-2021  20:54    <DIR>          .
+21-01-2021  20:54    <DIR>          ..
+21-01-2021  12:05               189 App.config
+21-01-2021  12:05    <DIR>          bin
+21-01-2021  13:36               329 ClsProduct.cs
+21-01-2021  13:36             2,206 CollectionInitializerDemo.cs
+21-01-2021  12:53             2,255 GenericsClassDemo.cs
+21-01-2021  13:21             2,238 GenericsCollectionDemo.cs
+21-01-2021  15:22             2,794 GenericsStuff.csproj
+21-01-2021  16:20             5,884 IComparableAndIComparerDemo.cs
+21-01-2021  13:26             1,577 ListMethodDemo.cs
+21-01-2021  12:05    <DIR>          obj
+21-01-2021  12:36             1,409 Program.cs
+21-01-2021  12:05    <DIR>          Properties
+21-01-2021  20:54                 0 topic.doc
+              10 File(s)         18,881 bytes
+               5 Dir(s)  125,807,632,384 bytes free

@@ -1,0 +1,10 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\bin\Debug\CSharpConceptsDay3.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\bin\Debug\CSharpConceptsDay3.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\bin\Debug\CSharpConceptsDay3.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\obj\Debug\CSharpConceptsDay3.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\obj\Debug\CSharpConceptsDay3.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\obj\Debug\CSharpConceptsDay3.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\obj\Debug\CSharpConceptsDay3.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\bin\Debug\MyFirstDLL.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\bin\Debug\MyFirstDLL.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\CSharpConceptsDay3\CSharpConceptsDay3\obj\Debug\CSharpConceptsDay3.csproj.CopyComplete

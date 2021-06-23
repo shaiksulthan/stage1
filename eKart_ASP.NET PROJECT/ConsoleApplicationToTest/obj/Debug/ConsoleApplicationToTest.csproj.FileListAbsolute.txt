@@ -1,0 +1,10 @@
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\ConsoleApplicationToTest.exe.config
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\ConsoleApplicationToTest.exe
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\ConsoleApplicationToTest.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\Dao.exe
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\Model.dll
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\Dao.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\bin\Debug\Model.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\obj\Debug\ConsoleApplicationToTest.csprojResolveAssemblyReference.cache
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\obj\Debug\ConsoleApplicationToTest.exe
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\ConsoleApplicationToTest\obj\Debug\ConsoleApplicationToTest.pdb

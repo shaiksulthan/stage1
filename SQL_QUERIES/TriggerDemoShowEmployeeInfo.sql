@@ -1,0 +1,24 @@
+select * from EMPLOYEE
+select * from DEPARTMENT
+
+-- CREATE TRIGGER ON EMPLOYEE TABLE AFTER INSERTING RECORD 
+alter trigger triAfterInsertEMPLOYEEINFO
+ON EMPLOYEE
+AFTER INSERT,UPDATE,DELETE
+AS
+BEGIN 
+SELECT [EMPID]
+      ,[EMPNAME]
+      ,[EMPDESG]
+      ,[DEPTID]
+      ,[DEPTNAME]
+      ,[DEPTLOC]
+  FROM [CTSDATABASE].[dbo].[V_EMPLOYEEDEPTINFO]
+END
+select * from EMPLOYEE
+
+insert into EMPLOYEE values ('Yogesh Kantilal Batane','PAT',102,15000)
+
+
+
+

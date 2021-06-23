@@ -1,0 +1,9 @@
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Model\bin\Debug\Model.dll
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Model\bin\Debug\Model.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Model\obj\Debug\Model.dll
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Model\obj\Debug\Model.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Model\bin\Debug\Model.dll
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Model\bin\Debug\Model.pdb
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Model\obj\Debug\Model.dll
+D:\Seshadri\AcademyWork\CurriculumRevamp_LessDuration\RefAppln\eKart\Model\obj\Debug\Model.pdb

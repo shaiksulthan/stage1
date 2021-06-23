@@ -1,0 +1,6 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\bin\Debug\MyFirstDLL.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\bin\Debug\MyFirstDLL.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\MyFirstDLL\MyFirstDLL\obj\Debug\MyFirstDLL.pdb

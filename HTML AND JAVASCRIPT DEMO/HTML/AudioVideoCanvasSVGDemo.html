@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <script src="Scripts/modernizr-2.8.3.js"></script>
+    <title></title>
+    <!--<meta charset="utf-8" http-equiv="refresh" content="10" />-->
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <header>
+        <h2>This is an Audio And Video Demo</h2>
+    </header>
+    <script>
+        if (Modernizr.audio) {
+            alert("Your browser support audio");
+        }
+        else {
+            alert("Your browser  does not support audio");
+        }
+
+    </script>
+    <audio controls="controls">
+        <source src="Images/Kalimba.mp3" type="audio/mpeg" />
+    </audio>
+    <video controls="controls">
+        <source src="Images/small.ogv" type="video/ogg" />
+        Your browser does not support the html video tag
+    </video>
+    <video width="320" height="240" controls autoplay loop>
+        <source src="Images/small.ogv" type="video/ogg" />
+        Your browser does not support the html video tag
+    </video>
+    <canvas id="mylinecanvas" width="200" height="100" style="border:1px solid#ff6a00;">
+        Your browser does not support the html canvas tag
+    </canvas>
+    <script>
+        var c = document.getElementById("mylinecanvas");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0, 0);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+    </script>
+    <canvas id="mycirclecanvas" width="200" height="100" style="border:1px solid#ff6a00;">
+        Your browser does not support the html canvas tag
+    </canvas>
+    <script>
+        var c = document.getElementById("mycirclecanvas");
+        var ctx = c.getContext("2d");
+        ctx.beginPath();
+        ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+        ctx.stroke();
+    </script>
+    <canvas id="myCanvasText1" width="300" height="100" style="border:1px solid#ff6a00;">
+        Your browser does not support the html canvas tag
+    </canvas>
+    <script>
+        var c = document.getElementById("myCanvasText1");
+        var ctx = c.getContext("2d");
+        ctx.font = "30px Arial";
+        var gradient = ctx.createLinearGradient(0, 0, c.width, 0);
+        gradient.addColorStop("0", " magenta");
+        gradient.addColorStop("0.5", "blue");
+        gradient.addColorStop("1.0", "red");
+        // Fill with gradient
+        ctx.fillStyle = gradient;
+        ctx.fillText("Hello CTS", 50, 80);
+    </script>
+    <svg width="100" height="100">
+        <circle cx="50"
+                cy="50"
+                r="40"
+                stroke="yellow"
+                stroke-width="4"
+                fill="red" />
+    </svg>
+
+    <svg height="210" width="500">
+        <polygon points="100,10,40,198,190,78,70,78,160,198"
+                 style="fill:red;stroke:yellow;stroke-width:5;fill-rule:nonzero;"/> 
+
+    </svg>
+    <svg width="200" height="100">
+        <rect 
+              width="200"
+              height="100"
+              stroke="yellow"
+              stroke-width="4"
+              fill="red"/>
+    </svg>
+    <footer>
+        <p>Posted by:</p>
+        <p>
+        <address>
+
+        </address>
+        </p>
+        <p>
+            contact information
+        </p>
+    </footer>
+</body>
+
+</html>

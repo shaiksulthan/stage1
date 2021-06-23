@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <title>JS ALERT CONFIRM PROMPT</title>
+    <script type="text/javascript">
+        function ShowAlert() {
+
+            alert("Hi you click on alert")
+        }
+        function ShowConfirm() {
+            if (confirm("Are you OK ") == true) {
+                alert("You are ok , take care of yourself");
+            }
+            else {
+                alert("Go to the doctor");
+
+            }
+
+        }
+        function ShowPrompt() {
+            var name = prompt("What's your plan for x-max", "susil");
+
+            if (name != null && name != "") {
+                alert("Hello and bye:" + name);
+            }
+
+        }
+
+
+
+    </script>
+</head>
+
+<body>
+    <input type="button" id="AlertId" onclick="ShowAlert()" value="Show Alert" />
+    <br />
+    <input type="button" id="ConfirmId" onclick="ShowConfirm()" value="Show Confirm" />
+    <br />
+    <input type="button" id="PromptId" onclick="ShowPrompt()" value="Show Prompt" />
+
+</body>
+
+</html>

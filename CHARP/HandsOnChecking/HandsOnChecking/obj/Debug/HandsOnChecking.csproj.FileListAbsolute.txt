@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\bin\Debug\HandsOnChecking.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\bin\Debug\HandsOnChecking.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\bin\Debug\HandsOnChecking.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\obj\Debug\HandsOnChecking.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\obj\Debug\HandsOnChecking.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\obj\Debug\HandsOnChecking.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\HandsOnChecking\HandsOnChecking\obj\Debug\HandsOnChecking.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\bin\Debug\LINQSTUFF.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\bin\Debug\LINQSTUFF.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\bin\Debug\LINQSTUFF.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\obj\Debug\LINQSTUFF.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\obj\Debug\LINQSTUFF.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\obj\Debug\LINQSTUFF.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\LINQSTUFF\LINQSTUFF\obj\Debug\LINQSTUFF.pdb

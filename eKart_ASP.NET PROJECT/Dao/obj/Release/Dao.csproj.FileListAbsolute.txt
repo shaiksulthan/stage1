@@ -1,0 +1,10 @@
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Release\Dao.exe.config
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Release\Dao.exe
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Release\Dao.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Release\Model.dll
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\bin\Release\Model.pdb
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Release\Dao.csprojAssemblyReference.cache
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Release\Dao.csproj.CoreCompileInputs.cache
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Release\Dao.csproj.CopyComplete
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Release\Dao.exe
+D:\Development_Avecto\GenC_Ref_Project\eKart - UI\eKart\Dao\obj\Release\Dao.pdb
